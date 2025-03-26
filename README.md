@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sushant Mahadwad |
+## Hi there 👋 I'm Sushant Mahadwad 
 
 🏍️ Ride Hard, Code Harder 🔥
 
@@ -11,11 +11,11 @@ Hey there! I'm a passionate developer and a fearless biker who loves the thrill 
 💻 Full-stack developer | 🚴 Road Warrior | 💧 Fuelled by water & adventure.
 
 
-"Life is a highway, and I'm coding my own path." 💀
+##"Life is a highway, and I'm coding my own path." 💀
 
 🚀 Let's connect and build something epic!
 
-🚀 Tech Stack :-
+##🚀 Tech Stack :-
 
 🖥️ Frontend: HTML 🏗️ | CSS 🎨 | JavaScript ⚡ | React ⚛️ | Tailwind CSS 🌊
 
