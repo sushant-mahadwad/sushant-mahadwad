@@ -6,7 +6,9 @@ Hey there! I'm a passionate developer and a fearless biker who loves the thrill 
 
 
 ⚡ Speed on the Road, Efficiency in Code
+
 🚀 Building awesome web apps, breaking limits, and cruising through challenges.
+
 💻 Full-stack developer | 🚴 Road Warrior | 💧 Fuelled by water & adventure.
 
 
@@ -14,8 +16,12 @@ Hey there! I'm a passionate developer and a fearless biker who loves the thrill 
 
 🚀 Let's connect and build something epic!
 
-🚀 Tech Stack:
+🚀 Tech Stack :-
+
 🖥️ Frontend: HTML 🏗️ | CSS 🎨 | JavaScript ⚡ | React ⚛️ | Tailwind CSS 🌊
+
 🛠️ Backend: Python 🐍 | Java ☕ | Ruby 💎 | Node.js 🌱
+
 🗄️ Databases: MySQL 🛢️ | MongoDB 🍃
+
 📦 DevOps & Tools: Git 🔗 | Linux 🐧 | Docker 🐳 | Jenkins ⚙️ | Postman 📬
