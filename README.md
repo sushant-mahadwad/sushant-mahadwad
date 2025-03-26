@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**sushant-mahadwad/sushant-mahadwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏍️ Ride Hard, Code Harder 🔥
+Hey there! I'm a passionate developer and a fearless biker who loves the thrill of the open road and the elegance of clean code.
 
-Here are some ideas to get you started:
+⚡ Speed on the Road, Efficiency in Code
+🚀 Building awesome web apps, breaking limits, and cruising through challenges.
+💻 Full-stack developer | 🚴 Road Warrior | 💧 Fuelled by water & adventure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Life is a highway, and I'm coding my own path." 💀
+
+🚀 Let's connect and build something epic!
+
+🚀 Tech Stack:
+🖥️ Frontend: HTML 🏗️ | CSS 🎨 | JavaScript ⚡ | React ⚛️ | Tailwind CSS 🌊
+🛠️ Backend: Python 🐍 | Java ☕ | Ruby 💎 | Node.js 🌱
+🗄️ Databases: MySQL 🛢️ | MongoDB 🍃
+📦 DevOps & Tools: Git 🔗 | Linux 🐧 | Docker 🐳 | Jenkins ⚙️ | Postman 📬
