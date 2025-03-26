@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Sushant Mahadwad |
 
 🏍️ Ride Hard, Code Harder 🔥
 
 Hey there! I'm a passionate developer and a fearless biker who loves the thrill of the open road and the elegance of clean code.
-
 
 ⚡ Speed on the Road, Efficiency in Code
 
