@@ -1,19 +1,20 @@
 ## Hi there 👋 I'm Sushant Mahadwad 
 
-🏍️ Ride Hard, Automate Harder ⚡
+🏍️ Ride Hard, Deploy Harder ⚡
 
-Hey there! I'm an Automation & DevOps Engineer and a passionate biker who loves the thrill of the open road and the elegance of clean, reliable systems.
+Hey there! I'm a DevOps Engineer and a passionate biker who loves the thrill of the open road and the elegance of reliable infrastructure.
 
-⚡ Speed on the Road, Automation in Code
+⚡ Speed on the Road, Reliability in Systems
 
-🚀 Building scalable systems, automating workflows, and improving production reliability in a B2B SaaS environment.
+🚀 Building scalable infrastructure, automating deployments, and improving production reliability in a fast-paced B2B SaaS environment.
 
-💻 Automation Engineer | ⚙️ DevOps Enthusiast | 🏍️ Road Warrior | 💧 Fuelled by water & adventure
+💻 DevOps Engineer | ☸️ Kubernetes Enthusiast | ⚙️ CI/CD Builder | 🏍️ Road Warrior | 💧 Fuelled by water & adventure.
 
+I enjoy turning complex systems into **reliable, observable, and automated platforms** using modern DevOps practices.
 
-"Life is a highway, and I'm automating my own path." 💀
+"Life is a highway, and I'm deploying my own path." 💀
 
-🚀 Let's connect and build something awesome!
+🚀 Let's connect and build something epic!
 
 ---
 
@@ -25,10 +26,10 @@ Hey there! I'm an Automation & DevOps Engineer and a passionate biker who loves 
 
 🗄️ Databases: MySQL 🛢️ | PostgreSQL 🐘 | MongoDB 🍃  
 
-⚙️ DevOps & Tools: Docker 🐳 | Kubernetes ☸️ | Helm ⎈ | ArgoCD 🔄 | Jenkins ⚙️ | Drone CI 🚀 | Linux 🐧 | Git 🔗 | Postman 📬  
+⚙️ DevOps & Cloud: Docker 🐳 | Kubernetes ☸️ | Helm ⎈ | Kustomize ⚙️ | ArgoCD 🔄 | Jenkins ⚙️ | Drone CI 🚀 | Linux 🐧 | Git 🔗  
 
-📊 Monitoring: Prometheus 🔥 | Grafana 📈 | Loki 📜  
+📊 Monitoring & Observability: Prometheus 🔥 | Grafana 📈 | Loki 📜  
 
-🤖 Automation: Playwright 🎭  
+🤖 Automation & Testing: Playwright 🎭  
 
 🧠 AI Tools: Cursor ⚡ | ChatGPT 🤖 | Claude 🧠
