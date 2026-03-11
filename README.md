@@ -26,7 +26,7 @@ I enjoy turning complex systems into **reliable, observable, and automated platf
 
 🗄️ Databases: MySQL 🛢️ | PostgreSQL 🐘 | MongoDB 🍃  
 
-⚙️ DevOps & Cloud: Docker 🐳 | Kubernetes ☸️ | Helm ⎈ | Kustomize ⚙️ | ArgoCD 🔄 | Jenkins ⚙️ | Drone CI 🚀 | Linux 🐧 | Git 🔗  
+⚙️ DevOps & Cloud: Docker 🐳 | Kubernetes ☸️ | Helm ⎈ | Kustomize ⚙️ | ArgoCD 🔄 | GitHub Actions ⚡ | Jenkins ⚙️ | Drone CI 🚀 | Linux 🐧 | Git 🔗  
 
 📊 Monitoring & Observability: Prometheus 🔥 | Grafana 📈 | Loki 📜  
 
